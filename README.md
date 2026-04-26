@@ -1,4 +1,4 @@
-﻿# 🤖 Autonomous Data Analyst Agent
+﻿# Autonomous Data Analyst Agent
 
 > A fully agentic pipeline that transforms natural language prompts into database queries, exploratory analysis, and visual insights — automatically.
 
@@ -10,19 +10,19 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 The Autonomous Data Analyst Agent is an agentic AI system that lets anyone — regardless of SQL or Python expertise — run complex, multi-step data analysis simply by describing what they want in plain English.
 
 The agent autonomously decides which tools to call, in what order, and how to combine results — all without human intervention at each step.
 
 **Key results:**
-- ✅ **92% accuracy** on multi-step query benchmarks
-- ⚡ **70% reduction** in time-to-insight vs. manual analysis workflows
+- **92% accuracy** on multi-step query benchmarks
+- **70% reduction** in time-to-insight vs. manual analysis workflows
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 User Prompt (Natural Language)
@@ -47,7 +47,7 @@ User Prompt (Natural Language)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -61,7 +61,7 @@ User Prompt (Natural Language)
 
 ---
 
-## ✨ Features
+## Features
 
 - **Natural Language → SQL**: Converts plain English questions into valid, optimized SQL queries
 - **Autonomous EDA**: Runs exploratory data analysis (distributions, correlations, outliers) without being told how
@@ -72,7 +72,7 @@ User Prompt (Natural Language)
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -113,7 +113,7 @@ result.show_charts()
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 autonomous-data-analyst/
@@ -138,7 +138,7 @@ autonomous-data-analyst/
 
 ---
 
-## 📊 Benchmark Results
+##  Benchmark Results
 
 Evaluated on a custom suite of 50 multi-step analytical queries across 3 database schemas:
 
@@ -152,7 +152,7 @@ Evaluated on a custom suite of 50 multi-step analytical queries across 3 databas
 
 ---
 
-## 🔮 Roadmap
+##  Roadmap
 
 - [ ] Add support for CSV/Excel file uploads as ad-hoc data sources
 - [ ] Streaming output (token-by-token insights as they're generated)
@@ -162,7 +162,7 @@ Evaluated on a custom suite of 50 multi-step analytical queries across 3 databas
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — see [LICENSE](LICENSE) for details.
 
